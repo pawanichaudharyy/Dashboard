@@ -1,4 +1,4 @@
-# Dashboard
+# ONLINE SALES DASHBOARD
 Online Sales Dashboard using Power BI
 
 Developed an interactive Power BI dashboard to analyze and track online sales performance across India
